@@ -1,0 +1,6 @@
+En esta página web se darán a conocer datos sobre las áreas protegidas de Argentina, su distribución geográfica, tamaño, tipo y jurisdicción.
+¿Qué es un área protegida? Es un espacio geográfico claramente delimitado y legalmente regulado con el fin de preservar a largo plazo el patrimonio cultural o los ecosistemas. Por ejemplo, cerca de La Plata, un área protegida es el Parque Pereyra.
+Hay tres secciones principales en la página web:
+  - Conociendo nuestros datos: se muestran los datos que contiene el dataset y cuántas áreas protegidas hay.
+  - Superficies: trata sobre el tamaño de las áreas protegidas, el promedio, los tamaños mínimos y máximos, y qué gráfico conviene utilizar para identificar cuál es el tamaño de área más común.
+  - Ubicaciones: trata sobre dónde se ubican las áreas protegidas, su distribución y un mapa interactivo que permite localizar todas las áreas protegidas en un mapa.
