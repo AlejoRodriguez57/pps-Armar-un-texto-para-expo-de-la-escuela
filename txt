@@ -1,7 +1,14 @@
-En esta página web se darán a conocer datos sobre las áreas protegidas de Argentina, su distribución geográfica, tamaño, tipo y jurisdicción.
-¿Qué es un área protegida? Es un espacio geográfico claramente delimitado y legalmente regulado con el fin de preservar a largo plazo el patrimonio cultural o los ecosistemas. Por ejemplo, cerca de La Plata, un área protegida es el Parque Pereyra.
+Áreas protegidas de Argentina
 
-Hay tres secciones principales en la página web:
-  - Conociendo nuestros datos: se muestran los datos que contiene que tenemos de las areas proteegidas y cuántas áreas protegidas hay.
-  - Superficies: trata sobre el tamaño de las áreas protegidas, el promedio, los tamaños mínimos y máximos, y qué gráfico conviene utilizar para identificar cuál es el tamaño de área más común.
-  - Ubicaciones: trata sobre dónde se ubican las áreas protegidas, su distribución y un mapa interactivo que permite localizar todas las áreas protegidas en un mapa.
+En esta página web se van a conocer datos sobre las áreas protegidas de Argentina, su distribución geográfica, tamaño, tipo y jurisdicción.
+
+¿Qué es un área protegida? 
+Es un espacio geográfico claramente delimitado y legalmente regulado con el fin de preservar a largo plazo el patrimonio cultural o un ecosistema.
+Por ejemplo, cerca de La Plata, un área protegida es el Parque Pereyra.
+
+Secciones principales de la página web
+  1. Conociendo nuestros datos: En esta sección se muestran todos los datos sobre las areas protegidas, cuantas hay, proporciones y juridiscciones
+  2. Superficies: En esta sección se observa tamaño de las áreas protegidas, el promedio, los tamaños mínimos y máximos, y cuál es el gráfico más conveniente para ver cuál es el tamaño de área más común.
+  3. Ubicaciones En esta seccion se observa dónde se ubican las áreas protegidas, su distribución y un mapa interactivo que ubica todas las áreas protegidas en un mapa.
+
+⚠️ Hoy 16/10/2026 Los datos utilizados pueden estar desactualizados y no necesariamente representan la situación actual.
